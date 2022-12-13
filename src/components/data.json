@@ -1,0 +1,2103 @@
+{
+  "message": "SUCCESS",
+  "code": 200,
+  "status": 1,
+  "result": {
+      "mssv": "59463",
+      "overview": {
+          "total_subjects": 76,
+          "difference_subjects": 29,
+          "total_hk": 9,
+          "difference_hk": 9
+      },
+      "info": {
+          "old": {
+              "name": "Đặng Như Hải",
+              "gender": "Nam",
+              "birthday": "02/12/00",
+              "class":"63IT1"
+          },
+          "new": {
+              "name": "Đặng Như Hải",
+              "gender": "Nam",
+              "birthday": "02/12/00",
+              "class":"63IT1"
+          },
+          "is_compare": true
+      },
+      "compare": [
+          {
+              "year": "2018",
+              "hk": "1",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "401701",
+                          "qt": "8.0",
+                          "kt": "7.7",
+                          "tc": "2.0",
+                          "summary": "7.8",
+                          "name_subject": "Logic học đại cương",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "401701",
+                          "qt": "8.0",
+                          "kt": "7.7",
+                          "tc": "2.0",
+                          "summary": "7.8",
+                          "name_subject": "Logic học đại cương",
+                          "group_code": "59PM1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "510201",
+                          "qt": "7.0",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "6.3",
+                          "name_subject": "Pháp luật đại cương",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "510201",
+                          "qt": "7.0",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "6.3",
+                          "name_subject": "Pháp luật đại cương",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "390121",
+                          "qt": "9.5",
+                          "kt": "7.5",
+                          "tc": "3.0",
+                          "summary": "8.1",
+                          "name_subject": "Giải tích 1",
+                          "group_code": "63IT1",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "info_new": {
+                          "mmh": "390121",
+                          "qt": "9.5",
+                          "kt": "7.5",
+                          "tc": "3.0",
+                          "summary": "8.1",
+                          "name_subject": "Giải tích 1",
+                          "group_code": "63IT1",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "390111",
+                          "qt": "8.0",
+                          "kt": "5.0",
+                          "tc": "3.0",
+                          "summary": "5.9",
+                          "name_subject": "Đại số tuyến tính",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "390111",
+                          "qt": "8.0",
+                          "kt": "5.0",
+                          "tc": "3.0",
+                          "summary": "5.9",
+                          "name_subject": "Đại số tuyến tính",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "440155",
+                          "qt": "4.7",
+                          "kt": "3.6",
+                          "tc": "3.0",
+                          "summary": "3.9",
+                          "name_subject": "Tiếng Anh cơ bản 1",
+                          "group_code": "NN66",
+                          "score_string": "F",
+                          "score_4": "0.0"
+                      },
+                      "info_new": {
+                          "mmh": "440155",
+                          "qt": "4.7",
+                          "kt": "3.6",
+                          "tc": "3.0",
+                          "summary": "3.9",
+                          "name_subject": "Tiếng Anh cơ bản 1",
+                          "group_code": "63IT1",
+                          "score_string": "F",
+                          "score_4": "0.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "450101",
+                          "qt": "7.0",
+                          "kt": "9.5",
+                          "tc": "3.0",
+                          "summary": "8.8",
+                          "name_subject": "Tin học đại cương",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "450101",
+                          "qt": "7.0",
+                          "kt": "9.5",
+                          "tc": "3.0",
+                          "summary": "8.8",
+                          "name_subject": "Tin học đại cương",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2018",
+                      "hk": "1",
+                      "summary": " 6.77",
+                      "score_4": " 2.41",
+                      "summary_all": " 7.43",
+                      "score_4_all": " 2.96",
+                      "tcck": "13.0",
+                      "tcc": "13.0"
+                  },
+                  "is_compare": false
+              }
+          },
+          {
+              "year": "2018",
+              "hk": "2",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "401703",
+                          "qt": "9.0",
+                          "kt": "4.0",
+                          "tc": "3.0",
+                          "summary": "5.5",
+                          "name_subject": "Toán học tính toán",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "401703",
+                          "qt": "9.0",
+                          "kt": "4.0",
+                          "tc": "3.0",
+                          "summary": "5.5",
+                          "name_subject": "Toán học tính toán",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "531723",
+                          "qt": "5.0",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "5.7",
+                          "name_subject": "Thực hành tin học 1",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "531723",
+                          "qt": "5.0",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "5.7",
+                          "name_subject": "Thực hành tin học 1",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "420101",
+                          "qt": "5.2",
+                          "kt": "4.5",
+                          "tc": "2.0",
+                          "summary": "4.7",
+                          "name_subject": "Những nguyên lý cơ bản của chủ nghĩa Mác - Lênin (Phần 1)",
+                          "group_code": "63IT2",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "info_new": {
+                          "mmh": "420101",
+                          "qt": "5.2",
+                          "kt": "4.5",
+                          "tc": "2.0",
+                          "summary": "4.7",
+                          "name_subject": "Những nguyên lý cơ bản của chủ nghĩa Mác - Lênin (Phần 1)",
+                          "group_code": "63IT2",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "390141",
+                          "qt": "8.3",
+                          "kt": "7.0",
+                          "tc": "4.0",
+                          "summary": "7.4",
+                          "name_subject": "Giải tích 2",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "390141",
+                          "qt": "8.3",
+                          "kt": "7.0",
+                          "tc": "4.0",
+                          "summary": "7.4",
+                          "name_subject": "Giải tích 2",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "401712",
+                          "qt": "9.9",
+                          "kt": "8.0",
+                          "tc": "3.0",
+                          "summary": "8.6",
+                          "name_subject": "Toán rời rạc",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "401712",
+                          "qt": "9.9",
+                          "kt": "8.0",
+                          "tc": "3.0",
+                          "summary": "8.6",
+                          "name_subject": "Toán rời rạc",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "250101",
+                          "qt": "7.9",
+                          "kt": "5.0",
+                          "tc": "3.0",
+                          "summary": "5.9",
+                          "name_subject": "Vật lý 1",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "250101",
+                          "qt": "7.9",
+                          "kt": "5.0",
+                          "tc": "3.0",
+                          "summary": "5.9",
+                          "name_subject": "Vật lý 1",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "480109",
+                          "qt": "6.0",
+                          "kt": "6.0",
+                          "tc": "0.0",
+                          "summary": "6.0",
+                          "name_subject": "Giáo dục quốc phòng 3",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "480109",
+                          "qt": "6.0",
+                          "kt": "6.0",
+                          "tc": "3.0",
+                          "summary": "6.0",
+                          "name_subject": "Giáo dục quốc phòng 3",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "480107",
+                          "qt": "7.3",
+                          "kt": "3.0",
+                          "tc": "0.0",
+                          "summary": "4.3",
+                          "name_subject": "Giáo dục quốc phòng 2",
+                          "group_code": "63IT1",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "info_new": {
+                          "mmh": "480107",
+                          "qt": "7.3",
+                          "kt": "3.0",
+                          "tc": "3.0",
+                          "summary": "4.3",
+                          "name_subject": "Giáo dục quốc phòng 2",
+                          "group_code": "63IT1",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "480106",
+                          "qt": "7.0",
+                          "kt": "5.0",
+                          "tc": "0.0",
+                          "summary": "5.6",
+                          "name_subject": "Giáo dục quốc phòng 1",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "480106",
+                          "qt": "7.0",
+                          "kt": "5.0",
+                          "tc": "3.0",
+                          "summary": "5.6",
+                          "name_subject": "Giáo dục quốc phòng 1",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": false
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2018",
+                      "hk": "2",
+                      "summary": " 6.49",
+                      "score_4": " 2.47",
+                      "summary_all": " 6.90",
+                      "score_4_all": " 2.68",
+                      "tcck": "17.0",
+                      "tcc": "30.0"
+                  },
+                  "is_compare": false
+              }
+          },
+          {
+              "year": "2019",
+              "hk": "1",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "461727",
+                          "qt": "7.2",
+                          "kt": "8.5",
+                          "tc": "3.0",
+                          "summary": "8.1",
+                          "name_subject": "Ngôn ngữ lập trình C++",
+                          "group_code": "63IT4",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "info_new": {
+                          "mmh": "461727",
+                          "qt": "7.2",
+                          "kt": "8.5",
+                          "tc": "3.0",
+                          "summary": "8.1",
+                          "name_subject": "Ngôn ngữ lập trình C++",
+                          "group_code": "63IT2",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "420102",
+                          "qt": "6.1",
+                          "kt": "5.0",
+                          "tc": "3.0",
+                          "summary": "5.3",
+                          "name_subject": "Những nguyên lý cơ bản của chủ nghĩa Mác - Lênin (Phần 2)",
+                          "group_code": "63IT4",
+                          "score_string": "D+",
+                          "score_4": "1.5"
+                      },
+                      "info_new": {
+                          "mmh": "420102",
+                          "qt": "6.1",
+                          "kt": "5.0",
+                          "tc": "3.0",
+                          "summary": "5.3",
+                          "name_subject": "Những nguyên lý cơ bản của chủ nghĩa Mác - Lênin (Phần 2)",
+                          "group_code": "63IT2",
+                          "score_string": "D+",
+                          "score_4": "1.5"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "430113",
+                          "qt": "5.0",
+                          "kt": "4.0",
+                          "tc": "0.0",
+                          "summary": "4.3",
+                          "name_subject": "Giáo dục Thể chất 2 - Cầu lông",
+                          "group_code": "LOPTC11",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "info_new": {
+                          "mmh": "430113",
+                          "qt": "5.0",
+                          "kt": "4.0",
+                          "tc": "1.0",
+                          "summary": "4.3",
+                          "name_subject": "Giáo dục Thể chất 2 - Cầu lông",
+                          "group_code": "62DT",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "250103",
+                          "qt": "",
+                          "kt": "7.2",
+                          "tc": "1.0",
+                          "summary": "7.2",
+                          "name_subject": "Thực hành vật lý",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "250103",
+                          "qt": "0.0",
+                          "kt": "7.2",
+                          "tc": "1.0",
+                          "summary": "7.2",
+                          "name_subject": "Thực hành vật lý",
+                          "group_code": "LT12KT",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "250102",
+                          "qt": "9.0",
+                          "kt": "6.5",
+                          "tc": "2.0",
+                          "summary": "7.3",
+                          "name_subject": "Vật lý 2",
+                          "group_code": "63IT4",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "250102",
+                          "qt": "9.0",
+                          "kt": "6.5",
+                          "tc": "2.0",
+                          "summary": "7.3",
+                          "name_subject": "Vật lý 2",
+                          "group_code": "63IT2",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "400101",
+                          "qt": "8.5",
+                          "kt": "6.5",
+                          "tc": "2.0",
+                          "summary": "7.1",
+                          "name_subject": "Xác suất thống kê",
+                          "group_code": "63IT4",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "400101",
+                          "qt": "8.5",
+                          "kt": "6.5",
+                          "tc": "2.0",
+                          "summary": "7.1",
+                          "name_subject": "Xác suất thống kê",
+                          "group_code": "63IT2",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "270211",
+                          "qt": "7.2",
+                          "kt": "6.5",
+                          "tc": "2.0",
+                          "summary": "6.7",
+                          "name_subject": "Kỹ thuật điện",
+                          "group_code": "63IT4",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "info_new": {
+                          "mmh": "270211",
+                          "qt": "7.2",
+                          "kt": "6.5",
+                          "tc": "2.0",
+                          "summary": "6.7",
+                          "name_subject": "Kỹ thuật điện",
+                          "group_code": "63IT2",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "401808",
+                          "qt": "7.5",
+                          "kt": "7.5",
+                          "tc": "2.0",
+                          "summary": "7.5",
+                          "name_subject": "Automat và ngôn ngữ hình thức",
+                          "group_code": "63IT4",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "401808",
+                          "qt": "7.5",
+                          "kt": "7.5",
+                          "tc": "2.0",
+                          "summary": "7.5",
+                          "name_subject": "Automat và ngôn ngữ hình thức",
+                          "group_code": "63IT2",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "401806",
+                          "qt": "5.5",
+                          "kt": "5.5",
+                          "tc": "2.0",
+                          "summary": "5.5",
+                          "name_subject": "Lý thuyết đồ thị",
+                          "group_code": "63IT4",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "401806",
+                          "qt": "5.5",
+                          "kt": "5.5",
+                          "tc": "2.0",
+                          "summary": "5.5",
+                          "name_subject": "Lý thuyết đồ thị",
+                          "group_code": "63IT2",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "440155",
+                          "qt": "7.5",
+                          "kt": "4.8",
+                          "tc": "3.0",
+                          "summary": "5.6",
+                          "name_subject": "Tiếng Anh cơ bản 1",
+                          "group_code": "NN06",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "440155",
+                          "qt": "7.5",
+                          "kt": "4.8",
+                          "tc": "3.0",
+                          "summary": "5.6",
+                          "name_subject": "Tiếng Anh cơ bản 1",
+                          "group_code": "63XD5",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": false
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2019",
+                      "hk": "1",
+                      "summary": " 6.62",
+                      "score_4": " 2.55",
+                      "summary_all": " 6.79",
+                      "score_4_all": " 2.63",
+                      "tcck": "20.0",
+                      "tcc": "50.0"
+                  },
+                  "is_compare": false
+              }
+          },
+          {
+              "year": "2019",
+              "hk": "2",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "531733",
+                          "qt": "7.5",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "8.6",
+                          "name_subject": "Kỹ thuật số",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "531733",
+                          "qt": "7.5",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "8.6",
+                          "name_subject": "Kỹ thuật số",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "531734",
+                          "qt": "8.0",
+                          "kt": "4.5",
+                          "tc": "2.0",
+                          "summary": "5.6",
+                          "name_subject": "Kỹ thuật vi xử lý 1",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "531734",
+                          "qt": "8.0",
+                          "kt": "4.5",
+                          "tc": "2.0",
+                          "summary": "5.6",
+                          "name_subject": "Kỹ thuật vi xử lý 1",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471726",
+                          "qt": "9.0",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "9.0",
+                          "name_subject": "Thuật toán và cấu trúc dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471726",
+                          "qt": "9.0",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "9.0",
+                          "name_subject": "Thuật toán và cấu trúc dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471737",
+                          "qt": "10.0",
+                          "kt": "7.2",
+                          "tc": "2.0",
+                          "summary": "8.0",
+                          "name_subject": "Ngoại ngữ chuyên ngành",
+                          "group_code": "63IT1",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "info_new": {
+                          "mmh": "471737",
+                          "qt": "10.0",
+                          "kt": "7.2",
+                          "tc": "2.0",
+                          "summary": "8.0",
+                          "name_subject": "Ngoại ngữ chuyên ngành",
+                          "group_code": "63IT1",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "430117",
+                          "qt": "6.0",
+                          "kt": "2.0",
+                          "tc": "0.0",
+                          "summary": "3.2",
+                          "name_subject": "Giáo dục thể chất 3 - Cầu lông",
+                          "group_code": "LOPTC13",
+                          "score_string": "F",
+                          "score_4": "0.0"
+                      },
+                      "info_new": {
+                          "mmh": "430117",
+                          "qt": "6.0",
+                          "kt": "2.0",
+                          "tc": "1.0",
+                          "summary": "3.2",
+                          "name_subject": "Giáo dục thể chất 3 - Cầu lông",
+                          "group_code": "63TH2",
+                          "score_string": "F",
+                          "score_4": "0.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461736",
+                          "qt": "8.4",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "8.8",
+                          "name_subject": "Cơ sở lý thuyết truyền tin",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "461736",
+                          "qt": "8.4",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "8.8",
+                          "name_subject": "Cơ sở lý thuyết truyền tin",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "410112",
+                          "qt": "7.2",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "6.4",
+                          "name_subject": "Tư tưởng Hồ Chí Minh",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "410112",
+                          "qt": "7.2",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "6.4",
+                          "name_subject": "Tư tưởng Hồ Chí Minh",
+                          "group_code": "63IT3",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471780",
+                          "qt": "8.0",
+                          "kt": "7.0",
+                          "tc": "2.0",
+                          "summary": "7.3",
+                          "name_subject": "Nhập môn cơ sở dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "471780",
+                          "qt": "8.0",
+                          "kt": "7.0",
+                          "tc": "2.0",
+                          "summary": "7.3",
+                          "name_subject": "Nhập môn cơ sở dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "270812",
+                          "qt": "8.0",
+                          "kt": "7.0",
+                          "tc": "2.0",
+                          "summary": "7.3",
+                          "name_subject": "Kỹ thuật điện tử",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "270812",
+                          "qt": "8.0",
+                          "kt": "7.0",
+                          "tc": "2.0",
+                          "summary": "7.3",
+                          "name_subject": "Kỹ thuật điện tử",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "401816",
+                          "qt": "10.0",
+                          "kt": "5.5",
+                          "tc": "2.0",
+                          "summary": "6.9",
+                          "name_subject": "Lý thuyết điều khiển",
+                          "group_code": "63IT1",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "info_new": {
+                          "mmh": "401816",
+                          "qt": "10.0",
+                          "kt": "5.5",
+                          "tc": "2.0",
+                          "summary": "6.9",
+                          "name_subject": "Lý thuyết điều khiển",
+                          "group_code": "63IT1",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "is_compare": true
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2019",
+                      "hk": "2",
+                      "summary": " 7.54",
+                      "score_4": " 3.11",
+                      "summary_all": " 6.99",
+                      "score_4_all": " 2.76",
+                      "tcck": "18.0",
+                      "tcc": "68.0"
+                  },
+                  "is_compare": false
+              }
+          },
+          {
+              "year": "2019",
+              "hk": "3",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "440156",
+                          "qt": "6.1",
+                          "kt": "5.1",
+                          "tc": "3.0",
+                          "summary": "5.4",
+                          "name_subject": "Tiếng Anh cơ bản 2",
+                          "group_code": "LOP37",
+                          "score_string": "D+",
+                          "score_4": "1.5"
+                      },
+                      "info_new": {
+                          "mmh": "440156",
+                          "qt": "6.1",
+                          "kt": "5.1",
+                          "tc": "3.0",
+                          "summary": "5.4",
+                          "name_subject": "Tiếng Anh cơ bản 2",
+                          "group_code": "63XD7",
+                          "score_string": "D+",
+                          "score_4": "1.5"
+                      },
+                      "is_compare": false
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2019",
+                      "hk": "3",
+                      "summary": " 5.40",
+                      "score_4": " 1.50",
+                      "summary_all": " 6.92",
+                      "score_4_all": " 2.70",
+                      "tcck": "3.0",
+                      "tcc": "71.0"
+                  },
+                  "is_compare": false
+              }
+          },
+          {
+              "year": "2020",
+              "hk": "1",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "531713",
+                          "qt": "7.5",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "6.5",
+                          "name_subject": "Kiến trúc máy tính",
+                          "group_code": "63IT1",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "info_new": {
+                          "mmh": "531713",
+                          "qt": "7.5",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "6.5",
+                          "name_subject": "Kiến trúc máy tính",
+                          "group_code": "63IT1",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461737",
+                          "qt": "4.0",
+                          "kt": "7.0",
+                          "tc": "3.0",
+                          "summary": "6.1",
+                          "name_subject": "Kỹ thuật truyền số liệu",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "461737",
+                          "qt": "4.0",
+                          "kt": "7.0",
+                          "tc": "3.0",
+                          "summary": "6.1",
+                          "name_subject": "Kỹ thuật truyền số liệu",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471728",
+                          "qt": "8.5",
+                          "kt": "8.5",
+                          "tc": "1.0",
+                          "summary": "8.5",
+                          "name_subject": "Đồ án hệ quản trị cơ sở dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471728",
+                          "qt": "8.5",
+                          "kt": "8.5",
+                          "tc": "1.0",
+                          "summary": "8.5",
+                          "name_subject": "Đồ án hệ quản trị cơ sở dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "410113",
+                          "qt": "6.0",
+                          "kt": "3.8",
+                          "tc": "3.0",
+                          "summary": "4.5",
+                          "name_subject": "Đường lối cách mạng của Đảng cộng sản Việt Nam",
+                          "group_code": "63IT1",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "info_new": {
+                          "mmh": "410113",
+                          "qt": "6.0",
+                          "kt": "3.8",
+                          "tc": "3.0",
+                          "summary": "4.5",
+                          "name_subject": "Đường lối cách mạng của Đảng cộng sản Việt Nam",
+                          "group_code": "63IT1",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471717",
+                          "qt": "9.0",
+                          "kt": "8.5",
+                          "tc": "2.0",
+                          "summary": "8.7",
+                          "name_subject": "Hệ quản trị cơ sở dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471717",
+                          "qt": "9.0",
+                          "kt": "8.5",
+                          "tc": "2.0",
+                          "summary": "8.7",
+                          "name_subject": "Hệ quản trị cơ sở dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461714",
+                          "qt": "8.0",
+                          "kt": "8.0",
+                          "tc": "2.0",
+                          "summary": "8.0",
+                          "name_subject": "Mạng máy tính",
+                          "group_code": "63IT1",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "info_new": {
+                          "mmh": "461714",
+                          "qt": "8.0",
+                          "kt": "8.0",
+                          "tc": "2.0",
+                          "summary": "8.0",
+                          "name_subject": "Mạng máy tính",
+                          "group_code": "63IT1",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461725",
+                          "qt": "6.4",
+                          "kt": "7.3",
+                          "tc": "2.0",
+                          "summary": "7.0",
+                          "name_subject": "Cơ sở hệ điều hành",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "461725",
+                          "qt": "6.4",
+                          "kt": "7.3",
+                          "tc": "2.0",
+                          "summary": "7.0",
+                          "name_subject": "Cơ sở hệ điều hành",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "451762",
+                          "qt": "10.0",
+                          "kt": "8.6",
+                          "tc": "2.0",
+                          "summary": "9.0",
+                          "name_subject": "Thuật toán và cấu trúc dữ liệu nâng cao",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "451762",
+                          "qt": "10.0",
+                          "kt": "8.6",
+                          "tc": "2.0",
+                          "summary": "9.0",
+                          "name_subject": "Thuật toán và cấu trúc dữ liệu nâng cao",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2020",
+                      "hk": "1",
+                      "summary": " 6.98",
+                      "score_4": " 2.76",
+                      "summary_all": " 6.93",
+                      "score_4_all": " 2.72",
+                      "tcck": "17.0",
+                      "tcc": "88.0"
+                  },
+                  "is_compare": false
+              }
+          },
+          {
+              "year": "2020",
+              "hk": "2",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "471734",
+                          "qt": "10.0",
+                          "kt": "10.0",
+                          "tc": "1.0",
+                          "summary": "10.0",
+                          "name_subject": "Đồ án Phân tích và thiết kế hệ thống thông tin",
+                          "group_code": "63IT4",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471734",
+                          "qt": "10.0",
+                          "kt": "10.0",
+                          "tc": "1.0",
+                          "summary": "10.0",
+                          "name_subject": "Đồ án Phân tích và thiết kế hệ thống thông tin",
+                          "group_code": "63IT2",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "531735",
+                          "qt": "8.0",
+                          "kt": "3.5",
+                          "tc": "2.0",
+                          "summary": "4.9",
+                          "name_subject": "Kỹ thuật vi xử lý 2",
+                          "group_code": "63IT4",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "info_new": {
+                          "mmh": "531735",
+                          "qt": "8.0",
+                          "kt": "3.5",
+                          "tc": "2.0",
+                          "summary": "4.9",
+                          "name_subject": "Kỹ thuật vi xử lý 2",
+                          "group_code": "63IT2",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "531824",
+                          "qt": "10.0",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "7.2",
+                          "name_subject": "Thực hành tin học 2",
+                          "group_code": "63IT4",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "531824",
+                          "qt": "10.0",
+                          "kt": "6.0",
+                          "tc": "2.0",
+                          "summary": "7.2",
+                          "name_subject": "Thực hành tin học 2",
+                          "group_code": "63IT2",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471732",
+                          "qt": "7.5",
+                          "kt": "6.7",
+                          "tc": "2.0",
+                          "summary": "6.9",
+                          "name_subject": "Công nghệ phần mềm",
+                          "group_code": "63IT4",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "info_new": {
+                          "mmh": "471732",
+                          "qt": "7.5",
+                          "kt": "6.7",
+                          "tc": "2.0",
+                          "summary": "6.9",
+                          "name_subject": "Công nghệ phần mềm",
+                          "group_code": "63IT2",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471733",
+                          "qt": "8.0",
+                          "kt": "8.0",
+                          "tc": "2.0",
+                          "summary": "8.0",
+                          "name_subject": "Phân tích và thiết kế hệ thống thông tin",
+                          "group_code": "63IT4",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "info_new": {
+                          "mmh": "471733",
+                          "qt": "8.0",
+                          "kt": "8.0",
+                          "tc": "2.0",
+                          "summary": "8.0",
+                          "name_subject": "Phân tích và thiết kế hệ thống thông tin",
+                          "group_code": "63IT2",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "451729",
+                          "qt": "10.0",
+                          "kt": "9.5",
+                          "tc": "2.0",
+                          "summary": "9.7",
+                          "name_subject": "Đồ hoạ máy tính 1",
+                          "group_code": "63IT4",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "451729",
+                          "qt": "10.0",
+                          "kt": "9.5",
+                          "tc": "2.0",
+                          "summary": "9.7",
+                          "name_subject": "Đồ hoạ máy tính 1",
+                          "group_code": "63IT2",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "430117",
+                          "qt": "7.0",
+                          "kt": "4.0",
+                          "tc": "0.0",
+                          "summary": "4.9",
+                          "name_subject": "Giáo dục thể chất 3 - Cầu lông",
+                          "group_code": "LOPTC15",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "info_new": {
+                          "mmh": "430117",
+                          "qt": "7.0",
+                          "kt": "4.0",
+                          "tc": "1.0",
+                          "summary": "4.9",
+                          "name_subject": "Giáo dục thể chất 3 - Cầu lông",
+                          "group_code": "64IT1",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471781",
+                          "qt": "9.3",
+                          "kt": "9.5",
+                          "tc": "2.0",
+                          "summary": "9.4",
+                          "name_subject": "Cơ sở dữ liệu nâng cao",
+                          "group_code": "63IT4",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471781",
+                          "qt": "9.3",
+                          "kt": "9.5",
+                          "tc": "2.0",
+                          "summary": "9.4",
+                          "name_subject": "Cơ sở dữ liệu nâng cao",
+                          "group_code": "63IT2",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "430109",
+                          "qt": "8.0",
+                          "kt": "6.0",
+                          "tc": "0.0",
+                          "summary": "6.6",
+                          "name_subject": "Giáo dục Thể chất 1 - Cầu lông",
+                          "group_code": "LOPTC5",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "info_new": {
+                          "mmh": "430109",
+                          "qt": "8.0",
+                          "kt": "6.0",
+                          "tc": "1.0",
+                          "summary": "6.6",
+                          "name_subject": "Giáo dục Thể chất 1 - Cầu lông",
+                          "group_code": "64XE1",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461730",
+                          "qt": "9.3",
+                          "kt": "8.5",
+                          "tc": "3.0",
+                          "summary": "8.7",
+                          "name_subject": "Phương pháp lập trình hướng đối tượng",
+                          "group_code": "63IT4",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "461730",
+                          "qt": "9.3",
+                          "kt": "8.5",
+                          "tc": "3.0",
+                          "summary": "8.7",
+                          "name_subject": "Phương pháp lập trình hướng đối tượng",
+                          "group_code": "63IT2",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": false
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461731",
+                          "qt": "9.0",
+                          "kt": "8.9",
+                          "tc": "1.0",
+                          "summary": "8.9",
+                          "name_subject": "Đồ án phương pháp lập trình hướng đối tượng",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "461731",
+                          "qt": "9.0",
+                          "kt": "8.9",
+                          "tc": "1.0",
+                          "summary": "8.9",
+                          "name_subject": "Đồ án phương pháp lập trình hướng đối tượng",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "531815",
+                          "qt": "7.5",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "8.6",
+                          "name_subject": "Lập trình hệ thống",
+                          "group_code": "63IT4",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "531815",
+                          "qt": "7.5",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "8.6",
+                          "name_subject": "Lập trình hệ thống",
+                          "group_code": "63IT2",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": false
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2020",
+                      "hk": "2",
+                      "summary": " 8.13",
+                      "score_4": " 3.37",
+                      "summary_all": " 7.14",
+                      "score_4_all": " 2.83",
+                      "tcck": "19.0",
+                      "tcc": "107.0"
+                  },
+                  "is_compare": false
+              }
+          },
+          {
+              "year": "2021",
+              "hk": "1",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "471811",
+                          "qt": "9.0",
+                          "kt": "9.0",
+                          "tc": "1.0",
+                          "summary": "9.0",
+                          "name_subject": "Đồ án cơ sở dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471811",
+                          "qt": "9.0",
+                          "kt": "9.0",
+                          "tc": "1.0",
+                          "summary": "9.0",
+                          "name_subject": "Đồ án cơ sở dữ liệu",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471738",
+                          "qt": "8.0",
+                          "kt": "7.5",
+                          "tc": "2.0",
+                          "summary": "7.7",
+                          "name_subject": "Nhận dạng xử lý tiếng nói",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "471738",
+                          "qt": "8.0",
+                          "kt": "7.5",
+                          "tc": "2.0",
+                          "summary": "7.7",
+                          "name_subject": "Nhận dạng xử lý tiếng nói",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "531732",
+                          "qt": "6.0",
+                          "kt": "1.0",
+                          "tc": "2.0",
+                          "summary": "2.5",
+                          "name_subject": "Xử lý số tín hiệu",
+                          "group_code": "63IT1",
+                          "score_string": "F",
+                          "score_4": "0.0"
+                      },
+                      "info_new": {
+                          "mmh": "531732",
+                          "qt": "6.0",
+                          "kt": "1.0",
+                          "tc": "2.0",
+                          "summary": "2.5",
+                          "name_subject": "Xử lý số tín hiệu",
+                          "group_code": "63IT1",
+                          "score_string": "F",
+                          "score_4": "0.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "451731",
+                          "qt": "9.2",
+                          "kt": "9.2",
+                          "tc": "1.0",
+                          "summary": "9.2",
+                          "name_subject": "Đồ án đồ hoạ máy tính",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "451731",
+                          "qt": "9.2",
+                          "kt": "9.2",
+                          "tc": "1.0",
+                          "summary": "9.2",
+                          "name_subject": "Đồ án đồ hoạ máy tính",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "451730",
+                          "qt": "9.3",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "9.1",
+                          "name_subject": "Đồ hoạ máy tính 2",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "451730",
+                          "qt": "9.3",
+                          "kt": "9.0",
+                          "tc": "2.0",
+                          "summary": "9.1",
+                          "name_subject": "Đồ hoạ máy tính 2",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471771",
+                          "qt": "8.0",
+                          "kt": "8.0",
+                          "tc": "2.0",
+                          "summary": "8.0",
+                          "name_subject": "Công nghệ WEB nâng cao",
+                          "group_code": "63IT1",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "info_new": {
+                          "mmh": "471771",
+                          "qt": "8.0",
+                          "kt": "8.0",
+                          "tc": "2.0",
+                          "summary": "8.0",
+                          "name_subject": "Công nghệ WEB nâng cao",
+                          "group_code": "63IT1",
+                          "score_string": "B+",
+                          "score_4": "3.5"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471774",
+                          "qt": "6.0",
+                          "kt": "2.0",
+                          "tc": "3.0",
+                          "summary": "3.2",
+                          "name_subject": "Lập trình LINUX",
+                          "group_code": "63IT1",
+                          "score_string": "F",
+                          "score_4": "0.0"
+                      },
+                      "info_new": {
+                          "mmh": "471774",
+                          "qt": "6.0",
+                          "kt": "2.0",
+                          "tc": "3.0",
+                          "summary": "3.2",
+                          "name_subject": "Lập trình LINUX",
+                          "group_code": "63IT1",
+                          "score_string": "F",
+                          "score_4": "0.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471731",
+                          "qt": "7.5",
+                          "kt": "7.5",
+                          "tc": "2.0",
+                          "summary": "7.5",
+                          "name_subject": "Công nghệ WEB",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "471731",
+                          "qt": "7.5",
+                          "kt": "7.5",
+                          "tc": "2.0",
+                          "summary": "7.5",
+                          "name_subject": "Công nghệ WEB",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471784",
+                          "qt": "9.0",
+                          "kt": "9.0",
+                          "tc": "3.0",
+                          "summary": "9.0",
+                          "name_subject": "Lập trình trong môi trường nhúng",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471784",
+                          "qt": "9.0",
+                          "kt": "9.0",
+                          "tc": "3.0",
+                          "summary": "9.0",
+                          "name_subject": "Lập trình trong môi trường nhúng",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461761",
+                          "qt": "8.0",
+                          "kt": "3.0",
+                          "tc": "2.0",
+                          "summary": "4.5",
+                          "name_subject": "Trí tuệ nhân tạo",
+                          "group_code": "63IT1",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "info_new": {
+                          "mmh": "461761",
+                          "qt": "8.0",
+                          "kt": "3.0",
+                          "tc": "2.0",
+                          "summary": "4.5",
+                          "name_subject": "Trí tuệ nhân tạo",
+                          "group_code": "63IT1",
+                          "score_string": "D",
+                          "score_4": "1.0"
+                      },
+                      "is_compare": true
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2021",
+                      "hk": "1",
+                      "summary": " 6.67",
+                      "score_4": " 2.45",
+                      "summary_all": " 7.24",
+                      "score_4_all": " 2.89",
+                      "tcck": "15.0",
+                      "tcc": "122.0"
+                  },
+                  "is_compare": false
+              }
+          },
+          {
+              "year": "2021",
+              "hk": "2",
+              "semester": [
+                  {
+                      "info_old": {
+                          "mmh": "531720",
+                          "qt": "6.0",
+                          "kt": "5.0",
+                          "tc": "2.0",
+                          "summary": "5.3",
+                          "name_subject": "Lập trình trên môi trường Windows",
+                          "group_code": "63IT1",
+                          "score_string": "D+",
+                          "score_4": "1.5"
+                      },
+                      "info_new": {
+                          "mmh": "531720",
+                          "qt": "6.0",
+                          "kt": "5.0",
+                          "tc": "2.0",
+                          "summary": "5.3",
+                          "name_subject": "Lập trình trên môi trường Windows",
+                          "group_code": "63IT1",
+                          "score_string": "D+",
+                          "score_4": "1.5"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461751",
+                          "qt": "8.4",
+                          "kt": "5.0",
+                          "tc": "2.0",
+                          "summary": "6.0",
+                          "name_subject": "An toàn bảo mật thông tin",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "461751",
+                          "qt": "8.4",
+                          "kt": "5.0",
+                          "tc": "2.0",
+                          "summary": "6.0",
+                          "name_subject": "An toàn bảo mật thông tin",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471782",
+                          "qt": "9.1",
+                          "kt": "5.0",
+                          "tc": "2.0",
+                          "summary": "6.2",
+                          "name_subject": "Công nghệ đa phương tiện",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "471782",
+                          "qt": "9.1",
+                          "kt": "5.0",
+                          "tc": "2.0",
+                          "summary": "6.2",
+                          "name_subject": "Công nghệ đa phương tiện",
+                          "group_code": "63IT1",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471774",
+                          "qt": "6.0",
+                          "kt": "5.5",
+                          "tc": "3.0",
+                          "summary": "5.7",
+                          "name_subject": "Lập trình LINUX",
+                          "group_code": "DQT",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "info_new": {
+                          "mmh": "471774",
+                          "qt": "6.0",
+                          "kt": "5.5",
+                          "tc": "3.0",
+                          "summary": "5.7",
+                          "name_subject": "Lập trình LINUX",
+                          "group_code": "DQT",
+                          "score_string": "C",
+                          "score_4": "2.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471752",
+                          "qt": "7.5",
+                          "kt": "6.8",
+                          "tc": "2.0",
+                          "summary": "7.0",
+                          "name_subject": "Quản lý dự án công nghệ thông tin",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "471752",
+                          "qt": "7.5",
+                          "kt": "6.8",
+                          "tc": "2.0",
+                          "summary": "7.0",
+                          "name_subject": "Quản lý dự án công nghệ thông tin",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471741",
+                          "qt": "7.3",
+                          "kt": "7.8",
+                          "tc": "1.0",
+                          "summary": "7.6",
+                          "name_subject": "Đồ án công nghệ phần mềm",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "info_new": {
+                          "mmh": "471741",
+                          "qt": "7.3",
+                          "kt": "7.8",
+                          "tc": "1.0",
+                          "summary": "7.6",
+                          "name_subject": "Đồ án công nghệ phần mềm",
+                          "group_code": "63IT1",
+                          "score_string": "B",
+                          "score_4": "3.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "461781",
+                          "qt": "8.0",
+                          "kt": "6.1",
+                          "tc": "2.0",
+                          "summary": "6.7",
+                          "name_subject": "Hệ chuyên gia",
+                          "group_code": "63IT1",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "info_new": {
+                          "mmh": "461781",
+                          "qt": "8.0",
+                          "kt": "6.1",
+                          "tc": "2.0",
+                          "summary": "6.7",
+                          "name_subject": "Hệ chuyên gia",
+                          "group_code": "63IT1",
+                          "score_string": "C+",
+                          "score_4": "2.5"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471783",
+                          "qt": "8.5",
+                          "kt": "8.5",
+                          "tc": "1.0",
+                          "summary": "8.5",
+                          "name_subject": "Đồ án tổng hợp",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471783",
+                          "qt": "8.5",
+                          "kt": "8.5",
+                          "tc": "1.0",
+                          "summary": "8.5",
+                          "name_subject": "Đồ án tổng hợp",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471772",
+                          "qt": "9.5",
+                          "kt": "8.5",
+                          "tc": "4.0",
+                          "summary": "8.8",
+                          "name_subject": "C# và môi trường NET",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471772",
+                          "qt": "9.5",
+                          "kt": "8.5",
+                          "tc": "4.0",
+                          "summary": "8.8",
+                          "name_subject": "C# và môi trường NET",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  },
+                  {
+                      "info_old": {
+                          "mmh": "471773",
+                          "qt": "8.8",
+                          "kt": "9.0",
+                          "tc": "4.0",
+                          "summary": "8.9",
+                          "name_subject": "Phần mềm nguồn mở và thiết kế WEB",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "info_new": {
+                          "mmh": "471773",
+                          "qt": "8.8",
+                          "kt": "9.0",
+                          "tc": "4.0",
+                          "summary": "8.9",
+                          "name_subject": "Phần mềm nguồn mở và thiết kế WEB",
+                          "group_code": "63IT1",
+                          "score_string": "A",
+                          "score_4": "4.0"
+                      },
+                      "is_compare": true
+                  }
+              ],
+              "semester_summary": {
+                  "info_old": {
+                      "year": "2021",
+                      "hk": "2",
+                      "summary": " 7.23",
+                      "score_4": " 2.91",
+                      "summary_all": " 7.24",
+                      "score_4_all": " 2.89",
+                      "tcck": "23.0",
+                      "tcc": "145.0"
+                  },
+                  "is_compare": false
+              }
+          }
+      ],
+      "is_compare": false
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "message": "SUCCESS",
+  "code": 200,
+  "status": 1,
+  "result": {
+      "page": 0,
+      "size": 30,
+      "total": 4092,
+      "compare": [
+          {
+              "id": 92,
+              "mssv": "0191866",
+              "isCompare": false
+          },
+          {
+              "id": 93,
+              "mssv": "2003966",
+              "isCompare": false
+          },
+          {
+              "id": 94,
+              "mssv": "0023466",
+              "isCompare": false
+          },
+          {
+              "id": 95,
+              "mssv": "0341566",
+              "isCompare": false
+          },
+          {
+              "id": 96,
+              "mssv": "752250",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 97,
+              "mssv": "403650",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 98,
+              "mssv": "0078266",
+              "isCompare": false
+          },
+          {
+              "id": 99,
+              "mssv": "0289666",
+              "isCompare": false
+          },
+          {
+              "id": 100,
+              "mssv": "0025466",
+              "isCompare": false
+          },
+          {
+              "id": 101,
+              "mssv": "0060766",
+              "isCompare": false
+          },
+          {
+              "id": 102,
+              "mssv": "350950",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 103,
+              "mssv": "872650",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 104,
+              "mssv": "2047566",
+              "isCompare": false
+          },
+          {
+              "id": 105,
+              "mssv": "0007566",
+              "isCompare": false
+          },
+          {
+              "id": 106,
+              "mssv": "0063366",
+              "isCompare": false
+          },
+          {
+              "id": 107,
+              "mssv": "0000166",
+              "isCompare": false
+          },
+          {
+              "id": 108,
+              "mssv": "884350",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 109,
+              "mssv": "2028466",
+              "isCompare": false
+          },
+          {
+              "id": 110,
+              "mssv": "597250",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 111,
+              "mssv": "0296566",
+              "isCompare": false
+          },
+          {
+              "id": 112,
+              "mssv": "0088666",
+              "isCompare": false
+          },
+          {
+              "id": 113,
+              "mssv": "2013666",
+              "isCompare": false
+          },
+          {
+              "id": 114,
+              "mssv": "603950",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 115,
+              "mssv": "0014466",
+              "isCompare": false
+          },
+          {
+              "id": 116,
+              "mssv": "0002766",
+              "isCompare": false
+          },
+          {
+              "id": 117,
+              "mssv": "120250",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 118,
+              "mssv": "0117966",
+              "isCompare": false
+          },
+          {
+              "id": 119,
+              "mssv": "0319166",
+              "isCompare": false
+          },
+          {
+              "id": 120,
+              "mssv": "844850",
+              "name": "Không tồn tại trong database mới hoặc cũ",
+              "isCompare": false
+          },
+          {
+              "id": 121,
+              "mssv": "2017466",
+              "isCompare": false
+          }
+      ],
+      "start_page": 0,
+      "end_page": 137
+  }
+}
