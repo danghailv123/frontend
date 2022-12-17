@@ -1,0 +1,29 @@
+{
+    "message": "SUCCESS",
+    "code": 200,
+    "status": 1,
+    "result": {
+        "page": 0,
+        "total": 2,
+        "history": [
+            {
+                "id": 21,
+                "name": "DS kèm QĐ - Gửi.xlsx",
+                "created_time": "2022-12-16T05:29:42.280+00:00",
+                "status": "IN PROCESS",
+                "total": 200,
+                "total_error": 48
+            },
+            {
+                "id": 20,
+                "name": "DS kèm QĐ - Gửi.xlsx",
+                "created_time": "2022-12-16T05:18:52.460+00:00",
+                "status": "SUCCESS",
+                "total": 200,
+                "total_error": 200
+            }
+        ],
+        "start_page": 0,
+        "end_page": 0
+    }
+}

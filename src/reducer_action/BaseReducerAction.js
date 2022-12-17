@@ -5,6 +5,13 @@ export const changeMaSoSv = e => {
   }
 }
 
+export const changeIdHistory = e => {
+  return {
+    type: 'CHANGE_ID_HISTORY',
+    id_history: e
+  }
+}
+
 export const changeDataStudent = e => {
   return {
     type: 'CHANGE_DATA_STUDENT',
@@ -26,12 +33,18 @@ export const changeDataListStudent = e => {
   }
 }
 
+export const changeDataListHistory = e => {
+  return {
+    type: 'CHANGE_DATA_LIST_HISTORY',
+    data_list_history: e
+  }
+}
+
 export const changeStatusProgress = e => {
   return {
     type: 'CHANGE_STATUS_PROGRESS',
     is_progress: e
   }
 }
-
 
 

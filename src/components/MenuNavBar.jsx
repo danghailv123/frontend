@@ -26,7 +26,7 @@ export default function MenuNavBar() {
         <React.Fragment>
             <Box sx={{ display: 'flex', alignItems: 'center', textAlign: 'center' }}>
                 <Link to="/"><Typography sx={{ minWidth: 100, fontWeight: 'bold', color: '#fff' }}>HOME</Typography></Link>
-                <Link to="/list"><Typography sx={{ minWidth: 100, fontWeight: 'bold', color: '#fff' }}>DANH SÁCH</Typography></Link>
+                <Link to="/list-history"><Typography sx={{ minWidth: 100, fontWeight: 'bold', color: '#fff' }}>DANH SÁCH</Typography></Link>
                 <Tooltip title="Account settings">
                     <IconButton
                         onClick={(e) => handleClick(e)}
@@ -80,7 +80,7 @@ export default function MenuNavBar() {
                         <Avatar /> Home
                     </MenuItem>
                 </Link>
-                <Link to="/list">
+                <Link to="/list-history">
                     <MenuItem>
                         <Avatar /> Danh sách
                     </MenuItem>

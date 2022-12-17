@@ -1,173 +1,214 @@
 {
-  "message": "SUCCESS",
-  "code": 200,
-  "status": 1,
-  "result": {
-      "page": 0,
-      "size": 30,
-      "total": 4092,
-      "compare": [
-          {
-              "id": 92,
-              "mssv": "0191866",
-              "isCompare": false
-          },
-          {
-              "id": 93,
-              "mssv": "2003966",
-              "isCompare": false
-          },
-          {
-              "id": 94,
-              "mssv": "0023466",
-              "isCompare": false
-          },
-          {
-              "id": 95,
-              "mssv": "0341566",
-              "isCompare": false
-          },
-          {
-              "id": 96,
-              "mssv": "752250",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 97,
-              "mssv": "403650",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 98,
-              "mssv": "0078266",
-              "isCompare": false
-          },
-          {
-              "id": 99,
-              "mssv": "0289666",
-              "isCompare": false
-          },
-          {
-              "id": 100,
-              "mssv": "0025466",
-              "isCompare": false
-          },
-          {
-              "id": 101,
-              "mssv": "0060766",
-              "isCompare": false
-          },
-          {
-              "id": 102,
-              "mssv": "350950",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 103,
-              "mssv": "872650",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 104,
-              "mssv": "2047566",
-              "isCompare": false
-          },
-          {
-              "id": 105,
-              "mssv": "0007566",
-              "isCompare": false
-          },
-          {
-              "id": 106,
-              "mssv": "0063366",
-              "isCompare": false
-          },
-          {
-              "id": 107,
-              "mssv": "0000166",
-              "isCompare": false
-          },
-          {
-              "id": 108,
-              "mssv": "884350",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 109,
-              "mssv": "2028466",
-              "isCompare": false
-          },
-          {
-              "id": 110,
-              "mssv": "597250",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 111,
-              "mssv": "0296566",
-              "isCompare": false
-          },
-          {
-              "id": 112,
-              "mssv": "0088666",
-              "isCompare": false
-          },
-          {
-              "id": 113,
-              "mssv": "2013666",
-              "isCompare": false
-          },
-          {
-              "id": 114,
-              "mssv": "603950",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 115,
-              "mssv": "0014466",
-              "isCompare": false
-          },
-          {
-              "id": 116,
-              "mssv": "0002766",
-              "isCompare": false
-          },
-          {
-              "id": 117,
-              "mssv": "120250",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 118,
-              "mssv": "0117966",
-              "isCompare": false
-          },
-          {
-              "id": 119,
-              "mssv": "0319166",
-              "isCompare": false
-          },
-          {
-              "id": 120,
-              "mssv": "844850",
-              "name": "Không tồn tại trong database mới hoặc cũ",
-              "isCompare": false
-          },
-          {
-              "id": 121,
-              "mssv": "2017466",
-              "isCompare": false
-          }
-      ],
-      "start_page": 0,
-      "end_page": 137
-  }
+    "message": "SUCCESS",
+    "code": 200,
+    "status": 1,
+    "result": {
+        "page": 0,
+        "size": 30,
+        "total": 5515,
+        "summary": {
+            "id": 22,
+            "name": "Kiểm tra toàn bộ sinh viên chưa ra trường",
+            "created_time": "2022-12-16T07:18:56.723+00:00",
+            "status": "ERROR",
+            "total": 19537,
+            "total_error": 5515
+        },
+        "compare": [
+            {
+                "id": 4315,
+                "mssv": "13852",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4316,
+                "mssv": "0015966",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4317,
+                "mssv": "274841",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4318,
+                "mssv": "0299266",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4319,
+                "mssv": "2014566",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4320,
+                "mssv": "1089648",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4321,
+                "mssv": "109647",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4322,
+                "mssv": "0290666",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4323,
+                "mssv": "1098948",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4324,
+                "mssv": "2046766",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4325,
+                "mssv": "0084066",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4326,
+                "mssv": "0310766",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4327,
+                "mssv": "109947",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4328,
+                "mssv": "1147748",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4329,
+                "mssv": "0063466",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4330,
+                "mssv": "1172748",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4331,
+                "mssv": "0227266",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4332,
+                "mssv": "0186466",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4333,
+                "mssv": "0202166",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4334,
+                "mssv": "1224447",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4335,
+                "mssv": "0102766",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4336,
+                "mssv": "1273848",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4337,
+                "mssv": "0107866",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4338,
+                "mssv": "200148",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4339,
+                "mssv": "0235566",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4340,
+                "mssv": "2004048",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4341,
+                "mssv": "0024566",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4342,
+                "mssv": "2007249",
+                "title": "Không t?n t?i trong database m?i ho?c cu",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4343,
+                "mssv": "0230966",
+                "isCompare": false,
+                "jobId": 22
+            },
+            {
+                "id": 4344,
+                "mssv": "2047666",
+                "isCompare": false,
+                "jobId": 22
+            }
+        ],
+        "start_page": 0,
+        "end_page": 183
+    }
 }

@@ -7,75 +7,50 @@ import { ToastContainer, toast } from 'react-toastify';
 
 import rs from './data.json'
 import Filter from './Filter';
-import { changeDataStudent, changeDisplayTableDetail, changeMaSoSv, changeStatusProgress } from '../reducer_action/BaseReducerAction';
+import { changeDataListHistory, changeDataStudent, changeDisplayTableDetail, changeMaSoSv, changeStatusProgress } from '../reducer_action/BaseReducerAction';
 import { useDispatch, useSelector } from 'react-redux';
 
-const SearchBar = () => {
+const SearchBarPageHistory = () => {
     const dispatch = useDispatch();
-
-    const ma_so_sv = useSelector(state => state.base.ma_so_sv)
-    const data_student = useSelector(state => state.base.data_student)
-    const is_display_table_detail = useSelector(state => state.base.is_display_table_detail)
-
-
-    const isDesktopOrLaptop = useMediaQuery({
-        query: '(min-width: 1224px)'
-    })
-    const isBigScreen = useMediaQuery({ query: '(min-width: 1824px)' })
-    const isTabletOrMobile = useMediaQuery({ query: '(max-width: 1224px)' })
-    const isPortrait = useMediaQuery({ query: '(orientation: portrait)' })
-    const isRetina = useMediaQuery({ query: '(min-resolution: 2dppx)' })
-
-
+    const [keyword, setKeyword] = useState('')
 
     const handleSubmit = (e) => {
         e.preventDefault();
-        let checkMaSoSv1;
         const options = {
             method: 'GET', // *GET, POST, PUT, DELETE, etc.
             headers: {
                 'Content-Type': 'application/json'
             },
         }
-        if (ma_so_sv) {
+            console.log(keyword)
             dispatch(changeStatusProgress(true))
-            fetch(`http://localhost:8088/sinh-vien/is-compare?mssv=${ma_so_sv}&type=0`, options)
+            fetch(`http://localhost:8088/sinh-vien/get-history?keyword=${keyword}`, options)
                 .then(response => {
                     console.log(response)
                     return response.json();
                 })
                 .then(rs => {
+                    console.log(rs);
                     if (rs.code === 200) {
                         let data = rs.result;
-                        checkMaSoSv1 = rs.result.mssv
-                        if (ma_so_sv === checkMaSoSv1) {
-                            dispatch(changeDataStudent({ ...data }))
-                            dispatch(changeDisplayTableDetail(true))
-                        } else {
-                            toast.error("Mã số sinh viên nhập không chính xác")
-                        }
+                        dispatch(changeDataListHistory({ ...data }))
+                        toast.success("thành công")
                     } else {
-                        toast.info("Mã số sinh viên không tồn tại")
+                        toast.info("không tồn tại")
                     }
-
                 })
                 .catch(err => {
-                    toast.info("Mã số sinh viên không tồn tại")
+                    toast.info(" không tồn tại")
                 })
                 .finally(() => {
                     dispatch(changeStatusProgress(false))
                 })
-        } else {
-            toast.warning("Vui lòng nhập mã sinh viên trước khi tìm kiếm")
-        }
+    
     }
 
-    // useEffect(() => {
-    //     dispatch(changeDisplayTableDetail(false))
-    // }, [ma_so_sv])
+
     return (
         <Stack direction="row" alignItems="center">
-            <Filter />
             <Paper
                 component="form"
                 onSubmit={(e) => { handleSubmit(e) }}
@@ -95,9 +70,9 @@ const SearchBar = () => {
                     <PersonIcon sx={{ p: '10px' }} />
                     <input
                         className='search-bar'
-                        placeholder='Mã số sinh viên *'
-                        value={ma_so_sv}
-                        onChange={e => dispatch(changeMaSoSv(e.target.value.trim()))}
+                        placeholder='Search  *'
+                        value={keyword}
+                        onChange={e => setKeyword(e.target.value)}
                         style={{ border: 'none', outline: 'none', padding: '4px 8px', fontWeight: 'bold', color: '#696969' }}
                     />
                 </div>
@@ -109,4 +84,4 @@ const SearchBar = () => {
     )
 }
 
-export default SearchBar
+export default SearchBarPageHistory

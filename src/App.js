@@ -6,6 +6,7 @@ import Footer from './components/Footer';
 import { ToastContainer } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import PageList from './components/PageList';
+import PageHistory from './components/PageHistory';
 
 const App = () => {
   return (
@@ -29,7 +30,8 @@ const App = () => {
         
         <Routes>
           <Route path='/' exact element={<Home />} />
-          <Route path='/list' exact element={<PageList />} />
+          <Route path='/list-history' exact element={<PageHistory />} />
+          <Route path='/list-student' exact element={<PageList />} />
         </Routes>
         <Footer />
       </Box>

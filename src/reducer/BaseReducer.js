@@ -3,7 +3,9 @@ const initialState = {
     data_student: {},
     is_display_table_detail: null,
     data_list_student: {},
-    is_progress: null
+    data_list_history: {},
+    is_progress: null,
+    id_history: ''
 }
 
 const BaseReducer = (state = initialState, action) => {
@@ -12,6 +14,13 @@ const BaseReducer = (state = initialState, action) => {
             return {
                 ...state,
                 ma_so_sv: action.ma_so_sv
+            }
+        }
+
+        case 'CHANGE_ID_HISTORY': {
+            return {
+                ...state,
+                id_history: action.id_history
             }
         }
         case 'CHANGE_DATA_STUDENT': {
@@ -30,6 +39,13 @@ const BaseReducer = (state = initialState, action) => {
             return {
                 ...state,
                 data_list_student: action.data_list_student
+            }
+        }
+
+        case 'CHANGE_DATA_LIST_HISTORY': {
+            return {
+                ...state,
+                data_list_history: action.data_list_history
             }
         }
         case 'CHANGE_STATUS_PROGRESS': {
